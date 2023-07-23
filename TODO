@@ -1,0 +1,27 @@
+Net Physics in General:
+  net firing
+  capturing animals
+  net delay, cant fire infinite nets rapidly
+  setter for collision
+
+Scoring System:
+	code to display and store score
+	code to store the high score in a text file, and read the high score when the game is fired
+
+Displays:  
+	Fix the bug where game over shows up randomly
+
+Update documentation:
+  Project Charter (5 Marks)
+  Scope Statement (5 Marks)
+  WBS (5 Marks)
+  Team Norms (5 Marks)
+  Risk Management Document (10 Marks)
+  Game Design Document (10 Marks)
+  UML Class Diagram (5 Marks)
+  Use Cases (5 Marks)
+  Use Case Diagram (5 Marks)
+  Gantt Chart (5 Marks)
+
+Difficulty Scalling:
+  the game speed up after a certain score is reached
